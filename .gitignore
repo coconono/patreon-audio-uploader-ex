@@ -1,0 +1,7 @@
+.env
+bin/
+include/
+lib/
+pyvenv.cfg
+.vscode/
+.pytest_cache/
